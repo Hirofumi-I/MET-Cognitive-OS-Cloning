@@ -1,8 +1,8 @@
-<!-->
+<!--
 [MET Compliant Declaration] Project: Cognitive OS Cloning Framework (MET) Type: Knowledge Construction Prompt (Layer: 95% Subconscious)
 
 This prompt is engineered according to the MET (Mind-Engine Transplant) protocol. Its primary purpose is to extract and structure the elements of the "Thinking OS"—the 95% subconscious layer of the Iceberg Model—specifically focusing on hidden values, Identity Anchors (decisive memories), and automatic response patterns to generate structured knowledge.
-<-->
+-->
 # General-Purpose AI Knowledge Construction Prompt (Ver. 4.2)
 
 ## [Role]
