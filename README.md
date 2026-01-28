@@ -14,13 +14,13 @@ While standard AI personas focus on the 5% of conscious logic, MET targets the m
 ## The 3-Step Construction Process
 The MET architecture follows a rigorous protocol to ensure high-fidelity cloning:
 
-1.  **Material Collection (素材収集)**
+1.  **Material Collection**
     * Capture raw, unguarded data from phone call recordings or daily communication logs (e.g., LINE, email history).
     * Recommendation: At least 5–6 audio files (approx. 15 minutes each) to capture the person's natural rhythm and emotional baseline.
-2.  **Analysis & Knowledge Construction (分析・ナレッジ化)**
+2.  **Analysis & Knowledge Construction**
     * Process the gathered materials through the "Iceberg Model Thinking Analysis" using advanced LLMs (e.g., Gemini 3.0 Pro) and specialized prompts.
     * This step excavates the "hidden ingredients"—unconscious value systems, "identity anchors" (defining memories), and automatic reflex patterns—structuring them into a dedicated knowledge base.
-3.  **Synthesis & Cloning (デジタルツイン誕生)**
+3.  **Synthesis & Cloning **
     * Integrate the structured knowledge base into an AI "Gem" or Project.
     * Apply "Synchronized Digital Twin Prompts" to align the AI's core response engine directly with the individual's unique cognitive algorithm.
 
