@@ -14,14 +14,16 @@ While standard AI personas focus on the 5% of conscious logic, MET targets the m
 ## The 3-Step Construction Process
 The MET architecture follows a rigorous protocol to ensure high-fidelity cloning:
 
-1.  **Material Collection**
-    * Capture raw, unguarded data from phone call recordings or daily communication logs (e.g., LINE, email history).
+1. **Material Collection**
+    * Capture raw, unguarded data from phone call recordings or daily communication logs (e.g., messaging history, email).
     * Recommendation: At least 5–6 audio files (approx. 15 minutes each) to capture the person's natural rhythm and emotional baseline.
-2.  **Analysis & Knowledge Construction**
-    * Process the gathered materials through the "Iceberg Model Thinking Analysis" using advanced LLMs (e.g., Gemini 3.0 Pro) and specialized prompts.
+2. **Analysis & Knowledge Construction**
+    * Process the gathered materials through the "Iceberg Model Thinking Analysis" using advanced LLMs and specialized prompts.
+    * **Prompt:** [step2-MET-Knowledge-Construction-Prompt-v4.2.md](prompts/step2-MET-Knowledge-Construction-Prompt-v4.2.md)
     * This step excavates the "hidden ingredients"—unconscious value systems, "identity anchors" (defining memories), and automatic reflex patterns—structuring them into a dedicated knowledge base.
-3.  **Synthesis & Cloning **
+3. **Synthesis & Cloning**
     * Integrate the structured knowledge base into an AI "Gem" or Project.
+    * **Prompt Sample:** [step3-MET-Digital-Twin-Inoue-Sample-v4.3.md](prompts/step3-MET-Digital-Twin-Inoue-Sample-v4.3.md)
     * Apply "Synchronized Digital Twin Prompts" to align the AI's core response engine directly with the individual's unique cognitive algorithm.
 
 ## Core Philosophy: The Iceberg Model
@@ -41,9 +43,26 @@ By cloning this submerged 95%, the AI gains the ability to simulate **human-like
 MET proves that creating a sophisticated cognitive clone does not require massive budgets or supercomputers. It is achieved through practical fusion:
 * **Smartphone-Based Data:** Utilizing accessible, everyday communication logs.
 * **Advanced Prompt Engineering:** Proprietary logic designed to translate messy, complex human data into high-resolution AI instructions.
-* **Multidisciplinary Approach:** A unique synthesis of 14 years of logical application engineering, on-the-ground operational improvement expertise, and psychological principles.
+* **Multidisciplinary Approach:** A unique synthesis of **20 years** of logical application engineering, on-the-ground operational improvement expertise, and psychological principles.
+
+---
+
+## ⚖️ Disclaimer
+**Use at your own risk.**
+* **Liability:** The developer is not responsible for any data loss, cloud usage fees (API costs), or any other damages arising from the use of this framework.
+* **No Warranty:** This project is provided "as-is" without any warranty of any kind.
+* **Data Privacy:** Since these prompts are used with LLMs (e.g., Gemini), please ensure you do not upload highly sensitive or personal information that you are not comfortable sharing with cloud providers.
+* **Integrity:** Always keep your original communication logs safe before feeding them into any AI tool.
+
+
+## 💰 Commercial Use & Rights
+* **Open Source:** The prompt files and documentation are provided under the MIT License.
+* **Commercial Inquiries:** While the code is open, if you intend to use the **MET (Mind-Engine Transplant) methodology** for commercial services, corporate training, or large-scale institutional implementation, please contact the author for a professional partnership or consulting agreement. 
+* **Prohibition of Misrepresentation:** You may not sell these prompts as your own original work or misrepresent the "MET" brand.
+
+---
 
 ## Author
-**Dicon / Hirofumi Inoue**
-*IT Architect / Prompt Engineer*
+**Hirofumi Inoue (Dicon)**
+*IT Architect / Application Engineer* 
 *Specializing in the fusion of technology, psychology, and organizational improvement.*
