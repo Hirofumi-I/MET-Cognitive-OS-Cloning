@@ -19,11 +19,11 @@ The MET architecture follows a rigorous protocol to ensure high-fidelity cloning
     * Recommendation: At least 5–6 audio files (approx. 15 minutes each) to capture the person's natural rhythm and emotional baseline.
 2. **Analysis & Knowledge Construction**
     * Process the gathered materials through the "Iceberg Model Thinking Analysis" using advanced LLMs and specialized prompts.
-    * **Prompt:** [step2-MET-Knowledge-Construction-Prompt-v4.2.md](prompts/step2-MET-Knowledge-Construction-Prompt-v4.2.md)
+    * **Prompt:** [step2-MET-Knowledge-Construction-Prompt-v4.2.md](prompts/step2-MET-Knowledge-Construction-Prompt-v4.2-SAMPLE.md)
     * This step excavates the "hidden ingredients"—unconscious value systems, "identity anchors" (defining memories), and automatic reflex patterns—structuring them into a dedicated knowledge base.
 3. **Synthesis & Cloning**
     * Integrate the structured knowledge base into an AI "Gem" or Project.
-    * **Prompt Sample:** [step3-MET-Digital-Twin-Inoue-Sample-v4.3.md](prompts/step3-MET-Digital-Twin-Inoue-Sample-v4.3.md)
+    * **Prompt Sample:** [step3-MET-Digital-Twin-Inoue-Sample-v4.3.md](prompts/step3-MET-Digital-Twin-Inoue-v4.3-SAMPLE.md)
     * Apply "Synchronized Digital Twin Prompts" to align the AI's core response engine directly with the individual's unique cognitive algorithm.
 
 ## Core Philosophy: The Iceberg Model
